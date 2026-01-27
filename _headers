@@ -1,0 +1,54 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.6060a69848a1672a53fd.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-2e5419622cfad2445a4d.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-49b6ead14a6ed9961040.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-index-page-js-45c67d8b5d93c687ff0a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-52f9d0548de9fc341d9c.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-5ef2215ae75db45f1885.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-48e1dcde9568729c86cc.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-13149828ead383f3276f.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/Birthday-Celebration/
+  Link: </Birthday-Celebration/webpack-runtime-5ef2215ae75db45f1885.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/framework-48e1dcde9568729c86cc.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/app-13149828ead383f3276f.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/styles-2e5419622cfad2445a4d.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/commons-49b6ead14a6ed9961040.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/component---src-templates-index-page-js-45c67d8b5d93c687ff0a.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </Birthday-Celebration/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/Birthday-Celebration/404/
+  Link: </Birthday-Celebration/webpack-runtime-5ef2215ae75db45f1885.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/framework-48e1dcde9568729c86cc.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/app-13149828ead383f3276f.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/styles-2e5419622cfad2445a4d.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/commons-49b6ead14a6ed9961040.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/component---src-pages-404-js-52f9d0548de9fc341d9c.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </Birthday-Celebration/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/Birthday-Celebration/404.html
+  Link: </Birthday-Celebration/webpack-runtime-5ef2215ae75db45f1885.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/framework-48e1dcde9568729c86cc.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/app-13149828ead383f3276f.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/styles-2e5419622cfad2445a4d.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/commons-49b6ead14a6ed9961040.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/component---src-pages-404-js-52f9d0548de9fc341d9c.js>; rel=preload; as=script
+  Link: </Birthday-Celebration/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </Birthday-Celebration/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
